@@ -1,0 +1,8 @@
+[book]
+title = "Notion Agent 使用指南"
+authors = ["NA1 & Notion Personal Agent"]
+language = "zh"
+src = "src"
+
+[build]
+build-dir = "book"
