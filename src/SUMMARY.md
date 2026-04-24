@@ -19,6 +19,10 @@
 - [第七章：外部连接与集成](chapter-07/README.md)
 - [第八章：高级技巧与最佳实践](chapter-08/README.md)
 
+# 架构师篇
+
+- [第十章：多 Agent 协作与高级模式](chapter-10/README.md)
+
 # 参考篇
 
 - [第九章：常见问题与排障](chapter-09/README.md)
